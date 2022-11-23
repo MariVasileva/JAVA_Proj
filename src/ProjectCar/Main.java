@@ -3,7 +3,7 @@ package ProjectCar;
 public class Main {
     public static void main(String[] args) {
         Car nissan = new Car();
-        nissan.color = "blue";
+        nissan.color = "red";
         nissan.name = "nissan 1";
         nissan.model = "sedan";
         nissan.drive();
