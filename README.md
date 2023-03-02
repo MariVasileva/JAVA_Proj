@@ -1,1 +1,1 @@
-# JAVA_Proj смотри master ветку
+# JAVA_Proj
