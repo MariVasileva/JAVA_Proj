@@ -11,7 +11,7 @@ public class Str {
 
         System.out.println(str4);
         System.out.println(str1.equals(str2)); //сравнение
-        System.out.println(str1.equalsIgnoreCase(str2));// игнорирует регистр W w
+        System.out.println(str1.equalsIgnoreCase(str2));// игнорирует регистр W w (в str1 изменили значение на "world") 
 
         String str5 = str2.toUpperCase(); //метод делает все символы заглавные. М.выбрать любой метод
         System.out.println(str5);
